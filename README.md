@@ -10,7 +10,7 @@ Quartus prime
 
 **THEORY**
 
-A JK Flip Flop is a type of digital memory circuit that stores a bit of information, with two inputs (J and K) and one output (Q). When J=0 and K=0, the flip flop remains in its current state; when J=1 and K=0, it sets to 1; when J=0 and K=1, it resets to 0; and when J=1 and K=1, it toggles its current state. This synchronous, edge-triggered, and sequential circuit is widely used in digital systems, counters, and registers, and its unique toggling feature makes it a fundamental building block of digital electronics.
+A JK Flip Flop is a type of digital memory circuit that stores a bit of information, with two inputs (J and K) and one output (Q). When J=0 and K=0, the flip flop remains in its current state; when J=1 and K=0, it sets to 1; when J=0 and K=1, it resets to 0; and when J=1 and K=1, it toggles its current state. This synchronous, edge-triggered, and sequential circuit is widely used in digital systems, counters, and registers, and its unique toggling feature makes it a fundamental building block of digital electronics
 
 **JK Flip-Flop**
 
@@ -41,9 +41,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: CHARUKESH S
+Developed by: GERIUS G
 
-RegisterNumber: 212224230044
+RegisterNumber: 24900086
 ```
 module jk_ff(j, k, clk, rst, q);
   input j, k, clk, rst;
@@ -64,12 +64,16 @@ module jk_ff(j, k, clk, rst, q);
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 
-![image](https://github.com/user-attachments/assets/b67f66f3-fb04-4f5a-8513-b34734089310)
+
+![Screenshot 2024-12-26 223109](https://github.com/user-attachments/assets/918c0590-21a0-48cd-afc3-51f5ba232ae9)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/c9e10526-ceae-41ab-81e8-b10b64f1c9db)
+
+![Screenshot 2024-12-26 224901](https://github.com/user-attachments/assets/849ccc6b-b74d-41ed-b72b-aba744da94f4)
+
 
 **RESULTS**
 

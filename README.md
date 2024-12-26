@@ -10,7 +10,7 @@ Quartus prime
 
 **THEORY**
 
-A JK Flip Flop is a type of digital memory circuit that stores a bit of information, with two inputs (J and K) and one output (Q). When J=0 and K=0, the flip flop remains in its current state; when J=1 and K=0, it sets to 1; when J=0 and K=1, it resets to 0; and when J=1 and K=1, it toggles its current state. This synchronous, edge-triggered, and sequential circuit is widely used in digital systems, counters, and registers, and its unique toggling feature makes it a fundamental building block of digital electronics.
+A JK Flip Flop is a type of digital memory circuit that stores a bit of information, with two inputs (J and K) and one output (Q). When J=0 and K=0, the flip flop remains in its current state; when J=1 and K=0, it sets to 1; when J=0 and K=1, it resets to 0; and when J=1 and K=1, it toggles its current state. This synchronous, edge-triggered, and sequential circuit is widely used in digital systems, counters, and registers, and its unique toggling feature makes it a fundamental building block of digital electronics
 
 **JK Flip-Flop**
 

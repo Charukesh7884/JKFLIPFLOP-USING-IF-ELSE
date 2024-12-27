@@ -1,4 +1,5 @@
 # JKFLIPFLOP-USING-IF-ELSE
+**DATE:22/11/2024**
 
 **AIM:** 
 
@@ -62,12 +63,12 @@ module jk_ff(j, k, clk, rst, q);
   end
  endmodule
 ```
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL DIAGRAM**
 
 ![image](https://github.com/user-attachments/assets/b67f66f3-fb04-4f5a-8513-b34734089310)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING WAVEFORM**
 
 ![image](https://github.com/user-attachments/assets/c9e10526-ceae-41ab-81e8-b10b64f1c9db)
 
